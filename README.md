@@ -38,12 +38,8 @@ Four dashboards built with Power BI and Excel that turn raw sales data into KPIs
 Download the .pbix files and open them in Power BI Desktop.
 
 ## Author
-Abubakar Fridaus | Data analyst | Lagos, Nigeria<img width="1079" height="625" alt="9a7c6624-3a38-4962-a681-acd3354637f8" src="https://github.com/user-attachments/assets/327a9a2e-2a53-4649-a0d0-6958aaee20f8" />
-<img width="1079" height="625" alt="9a7c6624-3a38-4962-a681-acd3354637f8" src="https://github.com/user-attachments/assets/04082073-2118-4549-9aba-71a229c28849" />
-<img width="1177" height="679" alt="8972e82d-5584-44b1-8501-610bf76dc306" src="https://github.com/user-attachments/assets/00388c4f-58fe-4bea-8d0a-bf3b771142a5" />
-
-
-[README.md](https://github.com/user-attachments/files/33830868/README.md)
-<img width="1069" height="602" alt="Logistics Sales Dashboard" src="https://github.com/user-attachments/assets/9f4b1637-7f05-480d-9be7-05c20934c501" />
-<img width="1069" height="602" alt="Logistics Sales Dashboard" src="https://github.com/user-attachments/assets/be8c38bc-9b3d-44aa-a190-30ccd9644a1d" />
-[Fridaus's Dashboard.xlsx](https://github.com/user-attachments/files/33830844/Fridaus.s.Dashboard.xlsx)
+Abubakar Fridaus | Data analyst | Lagos, Nigeria
+<img width="1069" height="602" alt="c4adb05f-8a47-43ab-93f0-0ab5f12ec56e" src="https://github.com/user-attachments/assets/53b22100-1db5-4dd1-b470-fdcca18c6aeb" />
+<img width="1177" height="679" alt="8972e82d-5584-44b1-8501-610bf76dc306" src="https://github.com/user-attachments/assets/af24ab87-9cb3-4eae-bace-8a984f0e4f4d" />
+<img width="1079" height="625" alt="9a7c6624-3a38-4962-a681-acd3354637f8" src="https://github.com/user-attachments/assets/6fbaf844-93a3-4e46-835b-3eb88b193292" />
+<img width="943" height="657" alt="eee33682-4191-46d0-9a89-de69f0a490f6" src="https://github.com/user-attachments/assets/f5452b82-ad18-4c54-83ae-5b25c03c0f62" />
